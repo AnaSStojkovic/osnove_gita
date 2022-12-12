@@ -1,2 +1,2 @@
 # osnove_gita
-promene
+Test 1
